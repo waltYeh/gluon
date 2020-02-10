@@ -1,0 +1,4 @@
+data/
+venvgluon_nonsys/
+*.pyc
+*.keras

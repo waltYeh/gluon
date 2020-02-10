@@ -1,0 +1,5 @@
+virtualenv  -p python3.7 ./venvgluon_nonsys
+source venvgluon_nonsys/bin/activate
+pip install mxnet-cu101
+pip3 install matplotlib
+python tut1_lin_regr_scr.py
